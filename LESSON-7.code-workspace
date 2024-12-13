@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"name": "LESSON-7",
+			"path": "."
+		},
+		{
+			"name": "HOW-6",
+			"path": "../HOW-6"
+		},
+		{
+			"name": "LESSON-5",
+			"path": "../LESSON-5"
+		},
+		{
+			"name": "HOW-3",
+			"path": "../HOW-3"
+		},
+		{
+			"name": "vv",
+			"path": "../vv"
+		},
+		{
+			"path": "../LESSON-8"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "LESSON-7"
+	}
+}
