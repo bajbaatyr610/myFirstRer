@@ -16,6 +16,23 @@
         width: 100%;
         margin-bottom: 25px;
     }
+    .menu{
+        overflow: hidden;
+        width: 0;
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(0,0,0,0.9);
+        height: 100vh;
+    }
+    .menu li{
+        text-align: center;
+        font-size: 36px;
+        margin: 30px 0;
+    }
     .who_info{
         width: 100%;
     }
